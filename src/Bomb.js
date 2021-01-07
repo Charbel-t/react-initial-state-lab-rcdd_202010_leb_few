@@ -1,7 +1,7 @@
 // your Bomb code here!
 import React from 'react';
 
-class ImageSlider extends React.Component{
+class Bomb extends React.Component{
   
 }
-export default ImageSlider;
+export default Bomb;
