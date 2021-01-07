@@ -15,7 +15,7 @@ class Bomb extends React.Component{
   
   render(){
     return (
-      
+      'I am on slide <CURRENT_SLIDE>'
       );
   }
 }
