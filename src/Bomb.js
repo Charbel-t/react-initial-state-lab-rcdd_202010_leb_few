@@ -12,7 +12,7 @@ class Bomb extends React.Component{
   
   render(){
     return (
-      
+      <h1>{this.state.secondsLeft} seconds left before I go boom!</h1>
       );
   }
 }
