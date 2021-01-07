@@ -3,7 +3,11 @@ import React from 'react';
 
 class Bomb extends React.Component{
   constructor(){
-    super
+    super();
+    
+    this.state={
+      
+    }
   }
   
   
