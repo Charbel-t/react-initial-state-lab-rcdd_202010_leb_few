@@ -10,12 +10,9 @@ class Bomb extends React.Component{
     }
   }
   
-  
-  
-  
   render(){
     return (
-      'I am on slide <CURRENT_SLIDE>'
+      <h1>'I am on slide {this.state.currentSlideIndex}'</h1>
       );
   }
 }
